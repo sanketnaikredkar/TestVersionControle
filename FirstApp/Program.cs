@@ -8,7 +8,7 @@ namespace FirstApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Branch 1"); //edited : GitHub 5
-            onsole.WriteLine("Branch 1"); //edited : GitHub 5
+            Console.WriteLine("Branch 1"); //edited : GitHub 5
         }
     }
 }
